@@ -1,7 +1,9 @@
 # XDOJ
 As a XDU student,I decide to save my oj in this to help some xdx. 
 
-欢迎ldx，xdx积极分享自己的代码
+鉴于电兵目前能用的AI还无法做到百分百正确，以及学校的奇葩编译器版本
+
+欢迎ldx，xdx积极分享自己的代码（已过检测）
 
 有oj题目不会的也可以来这里研究
 
