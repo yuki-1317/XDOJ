@@ -9,3 +9,4 @@ As a XDU student,I decide to save my oj in this to help some xdx.
 
 求您的一颗小星星，祝你永远不挂科
 
+查询题目直接在文件栏目搜索即可
