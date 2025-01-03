@@ -14,3 +14,5 @@ As a XDU student,I decide to save my oj in this to help some xdx.
 查询题目直接在文件栏目搜索题目号即可
 
 感谢BenderBlog "SuperBart" Rodriguez学长的分享，64道oj题目已新鲜入库
+
+新增近六百道题目的验证数据
