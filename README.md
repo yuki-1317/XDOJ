@@ -1,3 +1,5 @@
+
+
 # XDOJ
 As a XDU student,I decide to save my oj in this to help some xdx. 
 
@@ -7,7 +9,7 @@ As a XDU student,I decide to save my oj in this to help some xdx.
 
 有oj题目不会的也可以来这里研究
 
-如同时存在test 和 oj 两个文档，选test
+本仓库仅包含C语言源代码，直接搜索题目号即可查找对应解法。
 
 求您的一颗小星星，祝你永远不挂科
 
